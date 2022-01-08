@@ -1,5 +1,5 @@
 # Hello-World
-My first respositori
+My first respository
 
 print("I love python")
 
